@@ -1,0 +1,6 @@
+{
+  "short_name": "SafeDeposit Box",
+  "name": "SafeDeposit Box",
+  "start_url": ".",
+  "display": "standalone"
+}
